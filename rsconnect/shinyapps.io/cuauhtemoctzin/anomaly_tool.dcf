@@ -1,0 +1,13 @@
+name: anomaly_tool
+title: anomaly_tool
+username: cuauhtemoctzin
+account: cuauhtemoctzin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12083696
+bundleId: 9398274
+url: https://cuauhtemoctzin.shinyapps.io/anomaly_tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: unittest.csv|unittest.rds|unittestV2.csv|unittestV3nocolnames.csv
