@@ -1,4 +1,4 @@
-#devtools::install_github("Cuauhtemoctzin/AnomalyScore",auth_token="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")
+
 #libraries  
 library(ggplot2)
 library(AnomalyScore)
